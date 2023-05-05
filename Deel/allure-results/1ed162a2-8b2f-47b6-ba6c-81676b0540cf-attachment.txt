@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "./option[normalize-space(@aria-activedescendant) = \":ro:-option-0\"]|./optgroup/option[normalize-space(@aria-activedescendant) = \":ro:-option-0\"]"
+}

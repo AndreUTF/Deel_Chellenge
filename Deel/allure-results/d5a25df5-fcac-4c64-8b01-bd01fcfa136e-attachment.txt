@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[contains(text(),\"Currency\")]/../div/div[1]/div[1]"
+}

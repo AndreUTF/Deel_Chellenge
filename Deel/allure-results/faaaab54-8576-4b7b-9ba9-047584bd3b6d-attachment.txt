@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//button[@aria-current=\"date\"]/../preceding-sibling::span[1]/button"
+}
